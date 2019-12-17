@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1576572532383,
+    "timestamp": 1576572547793,
     "version": 18,
     "name": "Eastcoast Laboratories FDroid",
     "icon": "default-repo-icon.png",
@@ -16,6 +16,7 @@
   },
   "apps": [
     {
+      "authorName": "Eastcoast Laboratories",
       "suggestedVersionCode": "27",
       "license": "Unknown",
       "name": "Roboyard",
