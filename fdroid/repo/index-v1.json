@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1576583715379,
+    "timestamp": 1576584546321,
     "version": 18,
     "name": "Eastcoast Laboratories FDroid",
     "icon": "default-repo-icon.png",
@@ -27,18 +27,18 @@
       "localized": {
         "de": {
           "summary": "Denkspiel \u2013 bewege einen Roboter optimal, mit den wenigsten Z\u00fcgen ans Ziel",
-          "description": "<p>Ein einfaches, aber herausforderndes Denkspiel.</p>\r\n<p>Du steuerst vier Roboter in einem 16x16 Felder gro&szlig;en Garten. Das Ziel ist es, einen bestimmten Roboter zum Ziel zu lenken. Die Roboter bewegen sich, bis sie entweder an eine Hecke oder einen anderen Roboter sto&szlig;en.</p>\r\n<p>Das Besondere an dieser App ist der automatische L&ouml;sungsfindungsalgorythmus, der dir Hinweise und auch die optimale L&ouml;sung mit den wenigsten Z&uuml;gen anzeigen kann.</p>\r\n<p>Kannst du die L&ouml;sung mit den wenigsten Z&uuml;gen finden?</p>\r\n<p>Dieses Spiel ist Open Source und wird ohne Adds ausgeliefert. Inspiriert von Rasender Roboter</p>\r\n<p>Quellcode unter https://roboyard.z11.de/</p>",
-          "featureGraphic": "Roboyard-feature-graphic.png"
+          "featureGraphic": "Roboyard-feature-graphic.png",
+          "description": "<p>Ein einfaches, aber herausforderndes Denkspiel.</p>\r\n<p>Du steuerst vier Roboter in einem 16x16 Felder gro&szlig;en Garten. Das Ziel ist es, einen bestimmten Roboter zum Ziel zu lenken. Die Roboter bewegen sich, bis sie entweder an eine Hecke oder einen anderen Roboter sto&szlig;en.</p>\r\n<p>Das Besondere an dieser App ist der automatische L&ouml;sungsfindungsalgorythmus, der dir Hinweise und auch die optimale L&ouml;sung mit den wenigsten Z&uuml;gen anzeigen kann.</p>\r\n<p>Kannst du die L&ouml;sung mit den wenigsten Z&uuml;gen finden?</p>\r\n<p>Dieses Spiel ist Open Source und wird ohne Adds ausgeliefert. Inspiriert von Rasender Roboter</p>\r\n<p>Quellcode unter https://roboyard.z11.de/</p>"
         },
         "en": {
-          "summary": "Problem-solving game - find the optimal moves to move one robot to its target",
           "featureGraphic": "Roboyard-feature-graphic.png",
+          "summary": "Problem-solving game - find the optimal moves to move one robot to its target",
+          "description": "<p>An Android-based application like the board game \"Ricochet Robots &copy;\". It includes an artificial intelligence capable of solving the puzzles.</p>\r\n<p>A simple but challenging puzzle game.</p>\r\n<p>You control four robots in a yard full of hedges, that block their way. The goal is to guide a particular robot to its destination. The robots move until they either hit a hedge or another robot.</p>\r\n<p>The special feature of this app is the automatic solution finding algorithm, which can show you hints and also the optimal solution.</p>\r\n<p>Can you find the solution with the fewest moves?</p>\r\n<p>This game is open source and shipped without adds.&nbsp;</p>\r\n<p>Source code: https://roboyard.z11.de/</p>",
           "phoneScreenshots": [
             "Roboyard_screenshot2.jpg",
             "Roboyard_screenshot3.jpg",
             "Roboyard_screenshot.png"
-          ],
-          "description": "<p>An Android-based application like the board game \"Ricochet Robots &copy;\". It includes an artificial intelligence capable of solving the puzzles.</p>\r\n<p>A simple but challenging puzzle game.</p>\r\n<p>You control four robots in a yard full of hedges, that block their way. The goal is to guide a particular robot to its destination. The robots move until they either hit a hedge or another robot.</p>\r\n<p>The special feature of this app is the automatic solution finding algorithm, which can show you hints and also the optimal solution.</p>\r\n<p>Can you find the solution with the fewest moves?</p>\r\n<p>This game is open source and shipped without adds.&nbsp;</p>\r\n<p>Source code: https://roboyard.z11.de/</p>"
+          ]
         }
       }
     }
