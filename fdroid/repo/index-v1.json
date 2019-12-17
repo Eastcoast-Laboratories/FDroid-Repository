@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1576584609761,
+    "timestamp": 1576584644894,
     "version": 18,
     "name": "Eastcoast Laboratories FDroid",
     "icon": "default-repo-icon.png",
@@ -32,7 +32,7 @@
         },
         "en": {
           "featureGraphic": "Roboyard-feature-graphic.png",
-          "summary": "Problem-solving game - find the optimal number of moves to move one robot to its target",
+          "summary": "Problem-solving game - find the optimal number of moves for one robot to reach its target",
           "description": "<p>An Android-based application like the board game \"Ricochet Robots &copy;\". It includes an artificial intelligence capable of solving the puzzles.</p>\r\n<p>A simple but challenging puzzle game.</p>\r\n<p>You control four robots in a yard full of hedges, that block their way. The goal is to guide a particular robot to its destination. The robots move until they either hit a hedge or another robot.</p>\r\n<p>The special feature of this app is the automatic solution finding algorithm, which can show you hints and also the optimal solution.</p>\r\n<p>Can you find the solution with the fewest moves?</p>\r\n<p>This game is open source and shipped without adds.&nbsp;</p>\r\n<p>Source code: https://roboyard.z11.de/</p>",
           "phoneScreenshots": [
             "Roboyard_screenshot2.jpg",
